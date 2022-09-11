@@ -1,5 +1,5 @@
 
-# Upload Restore Images in Spring Boot Application using ReactJs
+# Upload Restore Images/Videos in Spring Boot and ReactJs
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&emsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&emsp;
@@ -11,19 +11,20 @@
 </div>
 
 
-Hello Coders, In this tutorial you are going learn how to upload images in backend server by using react js as frontend and Spring boot backend
-
+Hello Coders, In this tutorial you are going learn how to upload/restore images/videos in backend server by using react js as frontend and Spring boot backend
+so let's get started
 
 ## To Start React Application
 
 Go to root directory of Frontend application and then run following command on terminal to download and install packages
 
 ```bash
-  npm install
+npm install
 ```
-Then Start Application by giving command
+Then Start React Application by giving command
 
 ```bash
+cd frontend
 npm Start
 ```
 
@@ -32,9 +33,10 @@ npm Start
 # Backend
 1. In your any editor import backend folder
 2. Go to the src/main/resorces package and then in -->
-   application.properties file change mysql user name and passowrd with yours on line no 4,5
+   application.properties file change mysql user name and passowrd with yours
 ```bash
 spring.datasource.username=root
 spring.datasource.password=root
 ```
-3. Start Your Sspring Boot Application and Upload  Images
+3. Start Your Spring Boot Application and Upload Images
+
