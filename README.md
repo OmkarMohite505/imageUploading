@@ -11,7 +11,7 @@
 </div>
 
 
-Helo Coders, In this tutorial you are going learn how to upload images in backend server by using react js as frontend and Spring boot backend
+Hello Coders, In this tutorial you are going learn how to upload images in backend server by using react js as frontend and Spring boot backend
 
 
 ## To Start React Application
