@@ -17,15 +17,17 @@ so let's get started
 ## To Start React Application
 
 Go to root directory of Frontend application and then run following command on terminal to download and install packages
-
 ```bash
 cd frontend
+```
+
+```bash
 npm install
 ```
 Then Start React Application by giving command
 
 ```bash
-npm Start
+npm start
 ```
 
 
@@ -39,4 +41,7 @@ spring.datasource.username=root
 spring.datasource.password=root
 ```
 3. Start Your Spring Boot Application and Upload Images
+   Videos
+4. To see uploaded pictures and video's
+    Enter Id no which is created on database table for that particular image or video
 
