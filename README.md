@@ -19,12 +19,12 @@ so let's get started
 Go to root directory of Frontend application and then run following command on terminal to download and install packages
 
 ```bash
+cd frontend
 npm install
 ```
 Then Start React Application by giving command
 
 ```bash
-cd frontend
 npm Start
 ```
 
